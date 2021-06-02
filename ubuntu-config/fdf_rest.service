@@ -1,0 +1,17 @@
+[Unit]
+Description=Fraud Detection Framework
+After=network.target
+
+[Service]
+User=valgarn
+Group=valgarn
+PIDFile=/tmp/fdf_rest.pid
+Environment="PATH=/home/valgarn/web-server"
+WorkingDirectory=/home/valgarn/web-server
+ExecStart=/opt/anaconda3/bin/gunicorn/gunicorn --workers 9 -b 127.0.0.1:5001 web-server:falconApi
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s TERM $MAINPID
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport"
+        content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,target-densitydpi=device-dpi,user-scalable=0" />
+    <title>fdf docker-server test</title>
+</head>
+
+<body>
+
+<br /><br />
+<form action="https://fraud-detection-framework.appspot.com/api/v2int/set_photo/info_exif_quality_benford_pca_cnn" method="POST" enctype="multipart/form-data">
+    <input type="file" name="photo" /><br />
+    <input type="submit" />
+</form>
+
+<br /><br />
+<a href="https://fraud-detection-framework.appspot.com/api/v2int/get_result">Check result</a>
+
+<br /><br />
+<a href="https://fraud-detection-framework.appspot.com/liveness_check">Liveness check</a>
+
+<br /><br />
+<a href="https://fraud-detection-framework.appspot.com/readiness_check">Readiness check</a>
+
+</body>
+</html>

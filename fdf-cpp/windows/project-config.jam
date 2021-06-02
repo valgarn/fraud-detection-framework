@@ -1,0 +1,7 @@
+import option ; 
+ 
+using gcc ; 
+using python : : C:\\ProgramData\\Anaconda3 ;
+ 
+option.set keep-going : false ; 
+ 

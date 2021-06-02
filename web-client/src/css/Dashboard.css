@@ -1,0 +1,62 @@
+
+/* @import 'https://unpkg.com/@uppy/file-input/dist/style.min.css'; */
+/* @import 'https://unpkg.com/@uppy/progress-bar/dist/style.min.css'; */
+
+@import 'file-input.css';
+@import 'progress-bar.css';
+
+.PhotoInput, .uppy-FileInput-btn, .uppy-FileInput-container {
+    font-family: "Roboto", "Helvetica";
+    font-size: 16px!important;
+    height: 80px;
+    width: 220px;
+    white-space: normal;
+    word-wrap: break-word;
+}
+
+.Result {
+    display: inline-block;
+    margin: 5px!important;
+    padding: 5px!important;
+    color: #ffffff!important;
+    font-family: "Roboto", "Helvetica";
+    font-size: 13px!important;
+    height: 80px;
+    width: 230px;
+    white-space: normal;
+    word-wrap: break-word;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.uppy-FileInput-btn {
+    border: 1px solid #3f51b5!important;
+    border-radius: 5px!important;
+    background-color: #3f51b5!important;
+    color: #ffffff!important;
+}
+
+.uppy-FileInput-btn:hover, .uppy-FileInput-btn:focus {
+    color: #ffffff!important;
+    background-color: #3f51b5!important;
+    outline: 0px!important;
+    outline-offset: 0px!important;
+}
+
+.uppy-Root:focus {
+    outline: 0px!important;
+    outline-offset: 0px!important;
+}
+
+.uppy-ProgressBar-inner {
+    background-color: #f50057!important;
+    box-shadow: 0 0 10px rgba(#c50027, 0.7);
+}
+
+.main-stop {
+    stop-color: red;
+}
+
+.alt-stop {
+    stop-color: green;
+}

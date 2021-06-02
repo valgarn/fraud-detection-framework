@@ -1,0 +1,36 @@
+Fraud Detection Framework
+Copyright (C) 2019-2021 Future Data Flows, LLC.  All Rights Reserved.
+Copyright (C) 2018-2021 Valerii Garnaga <valgarn@gmail.com>  All Rights Reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the fdf-cpp/include/libexif is Lutz Mueller <lutz@users.sourceforge.net>.
+Copyright (c) 2001-2004 Lutz Mueller <lutz@users.sourceforge.net> All Rights Reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the fdf-cpp/include/libjpeg is Thomas G. Lane
+Copyright (C) 1991-1998, Thomas G. Lane. All rights reserved.
+Modified 2002-2009 by Guido Vollbeding. All rights reserved.
+libjpeg-turbo Modifications:
+Copyright (C) 2009-2011, 2013-2014, 2016, D. R. Commander. All rights reserved.
+Copyright (C) 2015, Google, Inc. All rights reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the fdf-cpp/include/opencv2 is Intel Corporation
+Copyright (C) 2000-2015, Intel Corporation. All rights reserved.
+Copyright (C) 2009-2011, Willow Garage Inc. All rights reserved.
+Copyright (C) 2013-2015, OpenCV Foundation. All rights reserved.
+Copyright (C) 2015, Itseez Inc. All rights reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the fdf-cpp/include/rapidjson is Milo Yip
+Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip. All rights reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the fdf-cpp/include/tensorflow is Yuan Tang <terrytangyuan@gmail.com>
+Copyright 2015 Google Inc. All Rights Reserved.
+Copyright 2015 Yuan Tang <terrytangyuan@gmail.com> All Rights Reserved.
+Third party copyrights are property of their respective owners.
+
+The Initial Developer of the thirdparty/jpeg-data is Lutz Mueller <lutz@users.sourceforge.net>.
+Copyright (c) 2001 Lutz Mueller <lutz@users.sourceforge.net> All Rights Reserved.
+Third party copyrights are property of their respective owners.

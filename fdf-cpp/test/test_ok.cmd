@@ -1,0 +1,10 @@
+..\bin\fdf.exe "images\OK\DSCN0093.JPG"
+..\bin\fdf.exe "images\OK\IMG_20150827_074803.jpg"
+..\bin\fdf.exe "images\OK\IMG_20150906_173744.jpg"
+..\bin\fdf.exe "images\OK\IMG_20160127_120050.jpg"
+..\bin\fdf.exe "images\OK\IMG_20160127_120104.jpg"
+..\bin\fdf.exe "images\OK\IMG_20160127_120112.jpg"
+..\bin\fdf.exe "images\OK\IMG_20160127_123021.jpg"
+..\bin\fdf.exe "images\OK\IMG_20160127_123045.jpg"
+..\bin\fdf.exe "images\OK\P5070019.JPG"
+

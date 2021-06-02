@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport"
+        content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,target-densitydpi=device-dpi,user-scalable=0" />
+    <title>fdf docker-server test</title>
+</head>
+
+<body>
+
+<br /><br />
+<form action="http://localhost:8080/api/v2int/set_photo/info_exif_quality_benford_pca_cnn" method="POST" enctype="multipart/form-data">
+    <input type="file" name="photo" /><br />
+    <input type="submit" />
+</form>
+
+<br /><br />
+<a href="http://localhost:8080/api/v2int/get_result">Check result</a>
+
+<br /><br />
+<a href="http://localhost:8080/api/v2int/del_result">Delete result</a>
+
+<br /><br />
+<a href="http://localhost:8080/liveness_check">Liveness check</a>
+
+<br /><br />
+<a href="http://localhost:8080/readiness_check">Readiness check</a>
+
+</body>
+</html>

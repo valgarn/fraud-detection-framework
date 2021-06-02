@@ -199,3 +199,26 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+--------------------------------------------------
+
+This product bundles libexif libray headers, which are available under a
+GNU Lesser General Public License. For details, see fdf-cpp/include/libexif
+
+This product bundles libjpeg libray headers, which are available under a
+"3-clause BSD" license. For details, see fdf-cpp/include/libjpeg
+
+This product bundles OpenCV libray headers, which are available under a
+"3-clause BSD" license. For details, see fdf-cpp/include/opencv2
+
+This product bundles rapidjson libray headers, which are available under a
+MIT License. For details, see fdf-cpp/include/rapidjson
+
+This product bundles TensorFlow libray headers, which are available under a
+Apache 2 License. For details, see fdf-cpp/include/opencv2
+
+This product bundles libjpeg libray headers, which are available under a
+"3-clause BSD" license. For details, see fdf-cpp/include/libjpeg
+
+This product bundles jpeg-data libray headers, which are available under a
+GNU Lesser General Public License. For details, see thirdparty/jpeg-data
